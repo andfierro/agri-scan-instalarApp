@@ -1,0 +1,21 @@
+{
+  "short_name": "AgriScan",
+  "name": "AgriScan - Tesis IoT",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/628/628283.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/628/628283.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#22c55e",
+  "background_color": "#f8fafc",
+  "orientation": "portrait"
+}

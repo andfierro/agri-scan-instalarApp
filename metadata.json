@@ -1,0 +1,7 @@
+{
+  "name": "AgriScan - Tesis IoT",
+  "description": "Sistema de clasificación de salud foliar utilizando visión artificial para agricultura inteligente.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
